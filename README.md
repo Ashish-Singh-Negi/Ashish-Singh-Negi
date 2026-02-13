@@ -6,7 +6,7 @@ Currently improving Data Structures & Algorithms and exploring React Native.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
